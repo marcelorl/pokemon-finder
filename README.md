@@ -27,3 +27,11 @@ npm run dev
 ```
 
 3. Open your browser and navigate to `http://localhost:5173`.
+
+## Testing
+
+To run tests, use the following command:
+
+```bash
+npm run test
+```
